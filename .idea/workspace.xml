@@ -4,25 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90433c5e-8cb2-4e2c-99d3-123f8b7e745c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/Main.java" afterDir="false" />
+    <list default="true" id="90433c5e-8cb2-4e2c-99d3-123f8b7e745c" name="Changes" comment="jdbc example">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/applet/AnimationApplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/applet/Example1_AppletBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/applet/Example2_AppletWithParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/applet/Example3_EventHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/applet/Example4_MouseEventDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/applet/Example5_AppletLifecycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/applet/GraphicsApplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/applet/ImageApplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/applet/SoundApplet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/servlet/EmbeddedTomcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/servlet/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/swing/AdapterExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/swing/GUIComponentsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/swing/InnerClassExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/swing/ListenerExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/swing/SwingExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/swing/SwingLayoutExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2mcPqKYlyHJYYFc8bf2Bc1JLmYD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,17 +54,70 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "onboarding.tips.debug.path": "/Users/anku/Documents/RWC/JAVA/Programming-in-Java/src/main/java/org/AnkitaK65/Main.java"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.AnkitaK65.Main" />
+    <configuration name="AdapterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.AnkitaK65.chapter6.swing.AdapterExample" />
       <module name="Programming-in-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.AnkitaK65.*" />
+          <option name="PATTERN" value="org.AnkitaK65.chapter6.swing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmbeddedTomcat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.AnkitaK65.chapter6.servlet.EmbeddedTomcat" />
+      <module name="Programming-in-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.AnkitaK65.chapter6.servlet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GUIComponentsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.AnkitaK65.chapter6.swing.GUIComponentsExample" />
+      <module name="Programming-in-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.AnkitaK65.chapter6.swing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InnerClassExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.AnkitaK65.chapter6.swing.InnerClassExamples" />
+      <module name="Programming-in-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.AnkitaK65.chapter6.swing.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListenerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.AnkitaK65.chapter6.swing.ListenerExample" />
+      <module name="Programming-in-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.AnkitaK65.chapter6.swing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,7 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.EmbeddedTomcat" />
+        <item itemvalue="Application.GUIComponentsExample" />
+        <item itemvalue="Application.InnerClassExamples" />
+        <item itemvalue="Application.AdapterExample" />
+        <item itemvalue="Application.ListenerExample" />
       </list>
     </recent_temporary>
   </component>
@@ -67,6 +145,17 @@
       <updated>1727373080506</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
