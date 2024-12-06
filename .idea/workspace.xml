@@ -4,27 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90433c5e-8cb2-4e2c-99d3-123f8b7e745c" name="Changes" comment="jdbc example">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/applet/AnimationApplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/applet/Example1_AppletBasics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/applet/Example2_AppletWithParameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/applet/Example3_EventHandling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/applet/Example4_MouseEventDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/applet/Example5_AppletLifecycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/applet/GraphicsApplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/applet/ImageApplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/applet/SoundApplet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/servlet/EmbeddedTomcat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/servlet/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/swing/AdapterExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/swing/GUIComponentsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/swing/InnerClassExamples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/swing/ListenerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/swing/SwingExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/chapter6/swing/SwingLayoutExample.java" afterDir="false" />
+    <list default="true" id="90433c5e-8cb2-4e2c-99d3-123f8b7e745c" name="Changes" comment="lab">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/lab/BoxingUnboxingDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/lab/multifile/MessageDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/lab/multifile/MessageInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/lab/multifile/MultiLineMessageInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/lab/multilevel/fibonacci/FibonacciGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/lab/multilevel/fibonacci/FibonacciMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/lab/protection_levels/TestAccess.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/lab/protection_levels/differentpackage/DifferentPackageChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/lab/protection_levels/parentpackage/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/lab/protection_levels/parentpackage/SamePackageChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/AnkitaK65/lab/protection_levels/parentpackage/SamePackageNotChild.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +33,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AnkitaK65&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AnkitaK65/Programming-in-Java.git&quot;,
+    &quot;accountId&quot;: &quot;d20d7b3b-48ba-4f9e-94b9-5fd01348f60d&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -52,20 +56,35 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BoxingUnboxingDemo.executor": "Run",
+    "Application.CustomExceptionDemo (1).executor": "Run",
+    "Application.CustomExceptionDemo (2).executor": "Run",
+    "Application.CustomExceptionDemo (3).executor": "Run",
+    "Application.CustomExceptionDemo (4).executor": "Run",
+    "Application.CustomExceptionDemo.executor": "Run",
+    "Application.DivideByZero.executor": "Run",
+    "Application.FibonacciMain.executor": "Run",
+    "Application.FibonacciSeries.executor": "Run",
+    "Application.MessageInput.executor": "Run",
+    "Application.MultiLineMessageInput.executor": "Run",
+    "Application.NestedTryDemo.executor": "Run",
+    "Application.TestAccess.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/anku/Documents/RWC/JAVA/Programming-in-Java/src/main/java/org/AnkitaK65/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="AdapterExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.AnkitaK65.chapter6.swing.AdapterExample" />
+  <component name="RunManager" selected="Application.BoxingUnboxingDemo">
+    <configuration name="BoxingUnboxingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.AnkitaK65.lab.BoxingUnboxingDemo" />
       <module name="Programming-in-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.AnkitaK65.chapter6.swing.*" />
+          <option name="PATTERN" value="org.AnkitaK65.lab.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmbeddedTomcat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.AnkitaK65.chapter6.servlet.EmbeddedTomcat" />
+    <configuration name="FibonacciMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.AnkitaK65.lab.multilevel.fibonacci.FibonacciMain" />
       <module name="Programming-in-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.AnkitaK65.chapter6.servlet.*" />
+          <option name="PATTERN" value="org.AnkitaK65.lab.multilevel.fibonacci.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GUIComponentsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.AnkitaK65.chapter6.swing.GUIComponentsExample" />
+    <configuration name="MessageInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.AnkitaK65.lab.multifile.MessageInput" />
       <module name="Programming-in-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.AnkitaK65.chapter6.swing.*" />
+          <option name="PATTERN" value="org.AnkitaK65.lab.multifile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InnerClassExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.AnkitaK65.chapter6.swing.InnerClassExamples" />
+    <configuration name="MultiLineMessageInput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.AnkitaK65.lab.multifile.MultiLineMessageInput" />
       <module name="Programming-in-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.AnkitaK65.chapter6.swing.*" />
+          <option name="PATTERN" value="org.AnkitaK65.lab.multifile.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListenerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.AnkitaK65.chapter6.swing.ListenerExample" />
+    <configuration name="TestAccess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.AnkitaK65.lab.protection_levels.TestAccess" />
       <module name="Programming-in-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.AnkitaK65.chapter6.swing.*" />
+          <option name="PATTERN" value="org.AnkitaK65.lab.protection_levels.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EmbeddedTomcat" />
-        <item itemvalue="Application.GUIComponentsExample" />
-        <item itemvalue="Application.InnerClassExamples" />
-        <item itemvalue="Application.AdapterExample" />
-        <item itemvalue="Application.ListenerExample" />
+        <item itemvalue="Application.BoxingUnboxingDemo" />
+        <item itemvalue="Application.MultiLineMessageInput" />
+        <item itemvalue="Application.MessageInput" />
+        <item itemvalue="Application.FibonacciMain" />
+        <item itemvalue="Application.TestAccess" />
       </list>
     </recent_temporary>
   </component>
@@ -144,6 +163,15 @@
       <option name="presentableId" value="Default" />
       <updated>1727373080506</updated>
     </task>
+    <task id="LOCAL-00001" summary="lab">
+      <option name="closed" value="true" />
+      <created>1733311966585</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733311966585</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +184,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lab" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
