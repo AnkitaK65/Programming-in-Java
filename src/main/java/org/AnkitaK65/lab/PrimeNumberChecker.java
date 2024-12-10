@@ -1,5 +1,5 @@
 /*
-Q3. Write a Java program to check whether a given number is prime or not (without using a function).
+Q3. & Q20. Write a Java program to check whether a given number is prime or not (without using a function).
 */
 
 package org.AnkitaK65.lab;
