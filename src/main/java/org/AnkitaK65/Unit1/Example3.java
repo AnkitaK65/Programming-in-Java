@@ -45,7 +45,7 @@ RUNNING A SIMPLE JAVA FILE (NO PACKAGE):
 
 2️. Compile the file:
     javac SimpleExample.java
-    → Creates SimpleExample.class
+    → Creates SimpleExample.class (Bytecode)
 
 3️. Run the program:
     java SimpleExample
